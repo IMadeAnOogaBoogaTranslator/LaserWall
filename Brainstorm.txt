@@ -1,0 +1,123 @@
+﻿Brainstorm
+
+
+Oplæg 1:
+Ekstraordinær interaktiv oplevelse til event
+
+
+Formål: At udvikle og afprøve en installation til en interaktiv oplevelse under et konkret event.
+
+
+Krav:
+Opgaven skal tage udgangspunkt i et konkret event, og bør tage udgangspunkt i
+ønsker og krav fra arrangøren.
+Installationen skal udføres i fuld skala og afprøves, gerne on-site.
+Der skal foretages dokumentering af reaktioner på installationen.
+
+
+Ideer:
+* Big boi projektion controlled by user
+
+
+
+
+Oplæg 2:
+Fast interaktiv lyd- og/eller lysinstallation
+
+
+Formål: At udvikle og afprøve en prototype af en fast interaktiv installation til et konkret sted.
+
+
+Krav:
+Der skal produceres en visualisering af konceptet.
+Prototypen skal vise funktionen af alle kritiske elementer for projektets idé
+Der skal udarbejdes et realistisk budget for udførelse af det endelige produkt
+
+
+Ideer:
+* Klasselokale skift
+* Play God
+   * Du styre et økosystem, som bliver projekteret op på en mur (fordi det er sejt), med automatisk soundscape. I økosystemet, styre du nogle forskellige parametre som ændre økosystemet. Fx. hvor meget mad der er, hvor mange “predators” der er og hvor mange weaklings der er. For mange weaklings = Over population og global opvarmning, for lidt weaklings og for mange predators = Uddød af arter.
+      * Predators:
+         * Mennesker?
+      * Weaklings:
+         *    * Ændre vejret
+      * Disasters
+         * Tornado
+         * Vandstand
+   * Brugeren skal føle at han har en ændring på systemet
+      * Der skal være noget interaktivt.
+   * (MÅSKE) Bevæge dyrene med “fingrene”, så spilleren kan redde dyrene
+* Landscape Installation
+   * Projektorer der lyser et rum op og viser forskellige landskaber
+   * Lyder der bliver spillet i rummet, passer til alle landskaber, men hvis der bliver trykket på noget bestemt i et af områderne, bliver der afspillet en lyd baseret på hvad der er blevet trykket på
+   * (MÅSKE) Central i midten af rummet, som kan være med til at ændre på landskaberne
+* Rør ved muren -> EFFEKTER (taget)
+
+
+Oplæg 3:
+Ny kreativ interaktion med fysiske objekter
+
+
+Formål: At udvikle og afprøve en prototype af en ny kreativ form for interaktion med et konkret formål.
+
+
+Krav:
+Der skal bygges en funktionel prototype, så interaktionen kan afprøves.
+Testpersoners reaktion på prototypen skal dokumenteres.
+Den/de konkrete anvendelser for interaktionen skal beskrives og/eller afprøves.
+Har installationen relation til et eller flere temaer i ”How Bodies Matter” bør dette
+beskrives
+
+
+Ideer:
+* Gøre busstop sjove
+* En urørlig knap
+* The reverse
+
+
+
+
+
+
+
+
+
+
+
+
+Oplæg 4:
+Interaktivt escape room / Fælles interaktion
+
+
+Formål: At udvikle og afprøve et escape room scenarie, hvori der indgår digitale objekter
+
+
+Krav:
+Installationens formål og funktionalitet skal formidles visuelt.
+Der skal produceres en prototype, som skal vise funktionen af alle kritiske elementer for projektets idé.
+Installationens relation til begrebet shared experience skal beskrives
+
+
+Ideer:
+* 
+
+
+
+
+
+Oplæg 5:
+Forbindelsen til/gennem teknologien
+
+
+Formål: At udvikle og afprøve en installation, som gør et fysisk rum til en del af den digitale verden.
+
+
+Krav:
+Installationens formål og funktionalitet skal formidles visuelt.
+Installationen skal udføres i fuld skala og afprøves.
+Installations relation til begrebet ambient intelligence skal beskrives.
+
+
+Ideer:
+*
